@@ -4,6 +4,13 @@ body
     text-align: left ;
     font-family: 'Courier New', Courier, monospace;    
 }
+#cabecera
+{
+    background:lightblue;
+    color: darkblue ;
+    margin: 0;
+    padding: 0.5em;
+}
 #container
 {
     width: 70%;
