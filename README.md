@@ -12,6 +12,6 @@ no te creas que vas a aprender algo, porque no jeje, simplemente vas a ver como 
 - No sabes Git, porque seguramente no te pueda enseñar nada bsos
 - Eres géminis, aquí no se reciben géminis jeje
 - Virgo team sorry not sorry
-- No soy ni godzilla ni king kong
+- No soy ni godzilla ni king kong pirdun
 
 ### Eso seria todo jaja
