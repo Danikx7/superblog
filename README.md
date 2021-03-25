@@ -13,5 +13,6 @@ no te creas que vas a aprender algo, porque no jeje, simplemente vas a ver como 
 - Eres géminis, aquí no se reciben géminis jeje
 - Virgo team sorry not sorry
 - No soy ni godzilla ni king kong pirdun
+- oi ez noche d fri faieeeeeer
 
 ### Eso seria todo jaja
